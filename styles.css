@@ -1,0 +1,14 @@
+.container {
+  width: 1440px;
+  height: 1024px;
+  background-image: url('background.jpg');
+  cursor: pointer;
+}
+
+.stars {
+  position: absolute;
+  top: 35px;
+  left: 225px;
+  width: 612px;
+  height: 450px;
+}
